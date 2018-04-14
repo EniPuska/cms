@@ -1,0 +1,11 @@
+.BTN_delete, .BTN_edit, .BTN_view{
+    text-align: center;
+}
+thead{
+    font-weight: bold;
+}
+
+#bulkOptionContainer{
+    padding:0px;
+
+}
